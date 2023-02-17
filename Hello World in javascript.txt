@@ -1,0 +1,4 @@
+
+console.log("Welcome to Programiz!");
+alert("Hello World");
+document.write("Hello Piyush");
